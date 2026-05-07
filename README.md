@@ -1,4 +1,3 @@
-# atividade-estacionamentoEC
 # Atividade Avaliativa – Laboratório de Programação
 
 # Sistema de Gerenciamento de Estacionamento Rotativo
